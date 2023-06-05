@@ -17,3 +17,5 @@ This command creates the migrations files, creating a file that creates the data
 > dotnet ef database update
 
 This command executes migrations, creating our database architecture, and can be used to update them.
+
+*Don't forget to enter your MySQL username and password.*
